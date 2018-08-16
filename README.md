@@ -2,7 +2,7 @@
 
 This is a project for my internship at JimLab.
 
-I used AutoEncoder to analyze 18k pulse wave data.
+I used AutoEncoder to extract features from 18k pulse wave data and then reconstruct the wave.
 
 As the image below shows: yellow waves are the original waves and red waves are the reconstructed waves.
 
